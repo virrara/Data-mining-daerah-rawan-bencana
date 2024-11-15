@@ -1,0 +1,41 @@
+# Load required libraries #
+library (stats)
+library (dplyr)
+library (ggplot2)
+library (ggfortify)
+
+# Install if needed by removing the #
+#install.packages("tidyverse")
+#install.packages("readxl")
+#install.packages("FactoMineR")
+#install.packages("factoextra")
+# Load Libraries
+#library(tidyverse)
+#library(readxl)
+#library(FactoMineR)
+#library(factoextra)
+
+# Unsupervised Learning - Hence converting data to unlabelled #
+
+mydata = select(DataBencana,c(,3:10))
+
+# WSS Plot to choose maximum number of clusters #
+wssplot(mydata)
+
+# Spotting the kink in the curve in order to choose the optimum #
+KM = kmeans(mydata,2)
+
+#Evaluating Cluster Analysis #
+
+
+# Cluster Plot #
+autoplot(KM,mydata,frame=TRUE)
+
+# Cluster Centres #
+KM$centres
+KM
+# Fancy K-Means
+#fviz_nbclust(scale(mydata[,3:10]), kmeans, nstart=7, method = "wss") + 
+#  geom_vline(xintercept = 5, linetype = 1)
+
+
