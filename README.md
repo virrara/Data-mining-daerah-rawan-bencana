@@ -32,7 +32,7 @@ The research incorporates systematic data preprocessing, feature selection, and 
     </tr>
     <tr>
       <td align="center"><img src="https://github.com/user-attachments/assets/9fd45d23-2538-4079-b616-b76f742582d0" alt="Classification Results" width="100%"><br><b>Classification Results</b></td>
-      <td align="center"><img src="https://github.com/user-attachments/assets/2e4c76a4-e54d-423a-bd5d-5b14750e46f5" alt="Model Performance" width="100%"><br><b>Model Performance</b></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/2e4c76a4-e54d-423a-bd5d-5b14750e46f5" alt="Model Performance" width="100%"><br><b>lassification Results</b></td>
     </tr>
   </table>
 </p>
