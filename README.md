@@ -24,23 +24,17 @@ The research incorporates systematic data preprocessing, feature selection, and 
 
 ## 📸 Visualizations  
 
-### Disaster Prone Area Map  
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/94d75c1f-d5b6-486e-9153-d67facab80b5" alt="Disaster Prone Area Map" width="60%">
-</p>
-
-### Statistical Analysis & Classification Results  
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9866d69e-f477-47da-8a44-460fcf3479d7" alt="Statistical Analysis" width="45%">
-  <img src="https://github.com/user-attachments/assets/9fd45d23-2538-4079-b616-b76f742582d0" alt="Classification Results" width="45%">
-</p>
-
-### Prediction Model Performance  
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2e4c76a4-e54d-423a-bd5d-5b14750e46f5" alt="Prediction Model Performance" width="60%">
+  <table>
+    <tr>
+      <td align="center"><img src="https://github.com/user-attachments/assets/94d75c1f-d5b6-486e-9153-d67facab80b5" alt="Disaster Map" width="100%"><br><b>Disaster Map</b></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/9866d69e-f477-47da-8a44-460fcf3479d7" alt="Statistical Analysis" width="100%"><br><b>Statistical Analysis</b></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://github.com/user-attachments/assets/9fd45d23-2538-4079-b616-b76f742582d0" alt="Classification Results" width="100%"><br><b>Classification Results</b></td>
+      <td align="center"><img src="https://github.com/user-attachments/assets/2e4c76a4-e54d-423a-bd5d-5b14750e46f5" alt="Model Performance" width="100%"><br><b>Model Performance</b></td>
+    </tr>
+  </table>
 </p>
 
 ---
