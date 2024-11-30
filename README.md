@@ -40,6 +40,5 @@ The research incorporates systematic data preprocessing, feature selection, and 
 ---
 
 ## 🛠️ Tools & Technologies  
-- **Programming Language**: Python  
-- **Libraries**: Pandas, Scikit-learn, Matplotlib  
+- **Programming Language**: R  
 - **Visualization**: Heatmaps, Disaster Maps  
